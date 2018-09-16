@@ -1,5 +1,6 @@
-# yahtzee-variant
-Variant of yahtzee, instead of 5 dices, we have 3 dices.
+# Game of Yahtzee
+
+This implementation is a variant of yahtzee, instead of 5 dices, we have 3 dices.
 This program will suggest how many dice should the player roll again to maximize the score.
 
 To run the code :
